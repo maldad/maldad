@@ -1,7 +1,3 @@
-![bienvenidos](https://cdn.discordapp.com/attachments/716472464871522354/716476386130526309/unknown.png)
-# ¡Bienvenidos al sótano! :stuck_out_tongue_winking_eye:
-## ¿Notación de punto libre?
-
 * :woman_technologist: Trabajando con
   * Ruby
   * Ruby on Rails :steam_locomotive:
