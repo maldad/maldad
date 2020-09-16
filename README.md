@@ -9,6 +9,11 @@
 * Discord para compartir conocimientos, tips o sólo platicar
   * [El sótano](https://discord.gg/tCFxmCF)
 
+---
+<p align="center">
+<a href="https://instagram.com/agus.vama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="agus.vama" height="30" width="30" /></a>
+</p>
+
 ### Curso de Vim en progreso
 <!-- YOUTUBE:START -->
 - [05 - Movimiento avanzado en Vim - Utilizando los números como multiplicador](https://www.youtube.com/watch?v=KbUpy56GqM4)
