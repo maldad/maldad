@@ -17,6 +17,7 @@
 </p>
 </p>
 ---
+
 ### Curso de Vim en progreso
 <!-- YOUTUBE:START -->
 - [05 - Movimiento avanzado en Vim - Utilizando los números como multiplicador](https://www.youtube.com/watch?v=KbUpy56GqM4)
