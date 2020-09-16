@@ -16,6 +16,7 @@
 <a href="https://www.youtube.com/channel/UCGesoeestar8QJlbW3m1toA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="maldad" height="30" width="30" /></a>
 </p>
 </p>
+
 ---
 
 ### Curso de Vim en progreso
