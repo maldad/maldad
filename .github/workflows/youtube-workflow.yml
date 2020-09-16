@@ -1,4 +1,4 @@
-name: Lista de videos en mi canal :D
+name: Lista de videos en mi canal
 on:
   schedule:
     - cron: '0 * * * *'
