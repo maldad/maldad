@@ -9,10 +9,6 @@
 * Discord para compartir conocimientos, tips o sólo platicar
   * [El sótano](https://discord.gg/tCFxmCF)
 * Curso de Vim en progreso
-  * [Vim en español](https://www.youtube.com/watch?v=vbUTLbNGXxg&list=PLif3QW3nnEBxqVCbUqsTG08A2VHCIWt8U)
-
----
-# Videos recientes
 <!-- YOUTUBE:START -->
 - [05 - Movimiento avanzado en Vim - Utilizando los números como multiplicador](https://www.youtube.com/watch?v=KbUpy56GqM4)
 - [04 - Movimiento en Vim - Cómo navegar a lo largo de nuestro archivo.](https://www.youtube.com/watch?v=sICHhjkMsWs)
