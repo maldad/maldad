@@ -11,11 +11,11 @@
 
 ### Curso de Vim en progreso
 <!-- YOUTUBE:START -->
+- [Vim 07 - Texto dentro de comillas, paréntesis y corchetes](https://www.youtube.com/watch?v=nHZ6mQ5UBGY)
 - [06 - Copiar, cortar y pegar en Vim](https://www.youtube.com/watch?v=WR3eejf43_M)
 - [05 - Movimiento avanzado en Vim - Utilizando los números como multiplicador](https://www.youtube.com/watch?v=KbUpy56GqM4)
 - [04 - Movimiento en Vim - Cómo navegar a lo largo de nuestro archivo.](https://www.youtube.com/watch?v=sICHhjkMsWs)
 - [03 - Movimiento unitario en Vim](https://www.youtube.com/watch?v=2rgYHa_sOGI)
-- [02 - Lectura y escritura de archivos](https://www.youtube.com/watch?v=mheqJ3YTPCo)
 <!-- YOUTUBE:END -->
 
 ---
