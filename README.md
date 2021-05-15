@@ -11,11 +11,11 @@
 
 ### Curso de Vim en progreso
 <!-- YOUTUBE:START -->
+- [Vim 11 - Cómo llegar al modo INSERT de distintas maneras](https://www.youtube.com/watch?v=KtXsksTBAvs)
+- [Vim 10 - Splits y Tabs para ver y editar varios archivos al mismo tiempo](https://www.youtube.com/watch?v=8k63eT4XVEE)
 - [Vim 09 - Instalando plugins](https://www.youtube.com/watch?v=wAPv7rwYXC0)
 - [Vim 08 - Configurando Vim](https://www.youtube.com/watch?v=NRA8SfYDVgw)
 - [Vim 07 - Texto dentro de comillas, paréntesis y corchetes](https://www.youtube.com/watch?v=nHZ6mQ5UBGY)
-- [06 - Copiar, cortar y pegar en Vim](https://www.youtube.com/watch?v=WR3eejf43_M)
-- [05 - Movimiento avanzado en Vim - Utilizando los números como multiplicador](https://www.youtube.com/watch?v=KbUpy56GqM4)
 <!-- YOUTUBE:END -->
 
 ---
