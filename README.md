@@ -11,11 +11,11 @@
 
 ### Curso de Vim en progreso
 <!-- YOUTUBE:START -->
+- [Vim - Compilar e Instalar en Linux - (Fin de curso)](https://www.youtube.com/watch?v=UQAW2obn85Q)
 - [Vim 11 - Cómo llegar al modo INSERT de distintas maneras](https://www.youtube.com/watch?v=KtXsksTBAvs)
 - [Vim 10 - Splits y Tabs para ver y editar varios archivos al mismo tiempo](https://www.youtube.com/watch?v=8k63eT4XVEE)
 - [Vim 09 - Instalando plugins](https://www.youtube.com/watch?v=wAPv7rwYXC0)
 - [Vim 08 - Configurando Vim](https://www.youtube.com/watch?v=NRA8SfYDVgw)
-- [Vim 07 - Texto dentro de comillas, paréntesis y corchetes](https://www.youtube.com/watch?v=nHZ6mQ5UBGY)
 <!-- YOUTUBE:END -->
 
 ---
