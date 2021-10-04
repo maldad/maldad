@@ -6,8 +6,6 @@
 * Aprendiendo :nerd_face:
   * Haskell
   * React
-* Discord para compartir conocimientos, tips o sólo platicar
-  * [El sótano](https://discord.gg/tCFxmCF)
 
 ### Curso de Vim en progreso
 <!-- YOUTUBE:START -->
